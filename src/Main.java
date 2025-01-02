@@ -4,6 +4,7 @@ import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
+        // Frame que me permitira visualizar la interfaz grafica del Login
         JFrame frame = new JFrame("LOGIN");
         frame.setContentPane(new LOGIN().loginsito);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

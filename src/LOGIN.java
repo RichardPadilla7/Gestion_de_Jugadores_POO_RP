@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.sql.*;
+import java.sql.*; // Nos ayuda a trabajar con bases de datos en Java utilizando JDBC
 
 public class LOGIN {
     public JPanel loginsito;
